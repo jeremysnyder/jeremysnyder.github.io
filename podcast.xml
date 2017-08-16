@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" 
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
     <title> Title of your site </title>
     <description> A description of your podcast show </description>
