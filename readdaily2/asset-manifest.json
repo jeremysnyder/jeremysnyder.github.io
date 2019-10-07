@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/readdaily2/static/css/main.b100e6da.chunk.css",
-    "main.js": "/readdaily2/static/js/main.7fc30420.chunk.js",
-    "main.js.map": "/readdaily2/static/js/main.7fc30420.chunk.js.map",
+    "main.js": "/readdaily2/static/js/main.46f073c4.chunk.js",
+    "main.js.map": "/readdaily2/static/js/main.46f073c4.chunk.js.map",
     "runtime-main.js": "/readdaily2/static/js/runtime-main.ae9567c6.js",
     "runtime-main.js.map": "/readdaily2/static/js/runtime-main.ae9567c6.js.map",
     "static/js/2.8b7f0f59.chunk.js": "/readdaily2/static/js/2.8b7f0f59.chunk.js",
     "static/js/2.8b7f0f59.chunk.js.map": "/readdaily2/static/js/2.8b7f0f59.chunk.js.map",
     "index.html": "/readdaily2/index.html",
-    "precache-manifest.dabcf247ff104ff5d422e073fbd3c57a.js": "/readdaily2/precache-manifest.dabcf247ff104ff5d422e073fbd3c57a.js",
+    "precache-manifest.7ab06a78550032e9e583124f486152ce.js": "/readdaily2/precache-manifest.7ab06a78550032e9e583124f486152ce.js",
     "service-worker.js": "/readdaily2/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/readdaily2/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ae9567c6.js",
     "static/js/2.8b7f0f59.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.7fc30420.chunk.js"
+    "static/js/main.46f073c4.chunk.js"
   ]
 }

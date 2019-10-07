@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b4df716fc01f56fb1601b2f8168fd70",
+    "revision": "84b3f9a1e5af26733eee5d09df1a6e05",
     "url": "/readdaily2/index.html"
   },
   {
-    "revision": "b61198a73125a407fcb7",
+    "revision": "86bc8ac90f8073b0e99e",
     "url": "/readdaily2/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/readdaily2/static/js/2.8b7f0f59.chunk.js"
   },
   {
-    "revision": "b61198a73125a407fcb7",
-    "url": "/readdaily2/static/js/main.7fc30420.chunk.js"
+    "revision": "86bc8ac90f8073b0e99e",
+    "url": "/readdaily2/static/js/main.46f073c4.chunk.js"
   },
   {
     "revision": "c54f7505b5a07fc69108",
