@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/readdaily2/static/css/main.34de6062.chunk.css",
-    "main.js": "/readdaily2/static/js/main.4b6069a4.chunk.js",
-    "main.js.map": "/readdaily2/static/js/main.4b6069a4.chunk.js.map",
+    "main.css": "/readdaily2/static/css/main.baef9a1a.chunk.css",
+    "main.js": "/readdaily2/static/js/main.2116cd9c.chunk.js",
+    "main.js.map": "/readdaily2/static/js/main.2116cd9c.chunk.js.map",
     "runtime-main.js": "/readdaily2/static/js/runtime-main.ae9567c6.js",
     "runtime-main.js.map": "/readdaily2/static/js/runtime-main.ae9567c6.js.map",
-    "static/js/2.edf4db17.chunk.js": "/readdaily2/static/js/2.edf4db17.chunk.js",
-    "static/js/2.edf4db17.chunk.js.map": "/readdaily2/static/js/2.edf4db17.chunk.js.map",
+    "static/js/2.5ae3bf18.chunk.js": "/readdaily2/static/js/2.5ae3bf18.chunk.js",
+    "static/js/2.5ae3bf18.chunk.js.map": "/readdaily2/static/js/2.5ae3bf18.chunk.js.map",
     "index.html": "/readdaily2/index.html",
-    "precache-manifest.d8d7c3d65be3b0c39ad2720aedd22fd7.js": "/readdaily2/precache-manifest.d8d7c3d65be3b0c39ad2720aedd22fd7.js",
+    "precache-manifest.2c968159afdffd52be0f2c9780cee968.js": "/readdaily2/precache-manifest.2c968159afdffd52be0f2c9780cee968.js",
     "service-worker.js": "/readdaily2/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/readdaily2/static/css/main.34de6062.chunk.css.map"
+    "static/css/main.baef9a1a.chunk.css.map": "/readdaily2/static/css/main.baef9a1a.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ae9567c6.js",
-    "static/js/2.edf4db17.chunk.js",
-    "static/css/main.34de6062.chunk.css",
-    "static/js/main.4b6069a4.chunk.js"
+    "static/js/2.5ae3bf18.chunk.js",
+    "static/css/main.baef9a1a.chunk.css",
+    "static/js/main.2116cd9c.chunk.js"
   ]
 }
