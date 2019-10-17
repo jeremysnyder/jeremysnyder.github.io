@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56219e1542bda5750ea37de97c251f8b",
+    "revision": "f9cf7d300414a82d1bf12d8045bc94cb",
     "url": "/readdaily2/index.html"
   },
   {
-    "revision": "7ec3d7644f963d911bb1",
+    "revision": "58ddccae4840a02ac64d",
     "url": "/readdaily2/static/css/main.4d2b1889.chunk.css"
   },
   {
-    "revision": "721aeb305a4785ce455e",
-    "url": "/readdaily2/static/js/2.5ae3bf18.chunk.js"
+    "revision": "46d42e15f976b082961a",
+    "url": "/readdaily2/static/js/2.8ee513d5.chunk.js"
   },
   {
-    "revision": "7ec3d7644f963d911bb1",
-    "url": "/readdaily2/static/js/main.2116cd9c.chunk.js"
+    "revision": "58ddccae4840a02ac64d",
+    "url": "/readdaily2/static/js/main.7d878dd2.chunk.js"
   },
   {
     "revision": "c54f7505b5a07fc69108",
