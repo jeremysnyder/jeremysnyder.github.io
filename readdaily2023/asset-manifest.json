@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/readdaily2021/static/css/main.9ea09181.chunk.css",
+    "main.js": "/readdaily2021/static/js/main.4bef9279.chunk.js",
+    "main.js.map": "/readdaily2021/static/js/main.4bef9279.chunk.js.map",
+    "runtime-main.js": "/readdaily2021/static/js/runtime-main.55cf5804.js",
+    "runtime-main.js.map": "/readdaily2021/static/js/runtime-main.55cf5804.js.map",
+    "static/js/2.2f656b73.chunk.js": "/readdaily2021/static/js/2.2f656b73.chunk.js",
+    "static/js/2.2f656b73.chunk.js.map": "/readdaily2021/static/js/2.2f656b73.chunk.js.map",
+    "index.html": "/readdaily2021/index.html",
+    "precache-manifest.f9552aba483d63ed8166b2ecafeca508.js": "/readdaily2021/precache-manifest.f9552aba483d63ed8166b2ecafeca508.js",
+    "service-worker.js": "/readdaily2021/service-worker.js",
+    "static/css/main.9ea09181.chunk.css.map": "/readdaily2021/static/css/main.9ea09181.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55cf5804.js",
+    "static/js/2.2f656b73.chunk.js",
+    "static/css/main.9ea09181.chunk.css",
+    "static/js/main.4bef9279.chunk.js"
+  ]
+}
